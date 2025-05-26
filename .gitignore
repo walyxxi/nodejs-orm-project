@@ -1,6 +1,9 @@
 # Dependencies
 node_modules
 
+# yarn.lock
+yarn.lock
+
 # yarn error logs
 yarn-error.log
 
